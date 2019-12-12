@@ -1,0 +1,111 @@
+.primary-background {
+    background-color: #121212;
+}
+
+.secondary-background {
+    width: 100%;
+    background-image: url(../public/Path\ 30.svg);
+    background-size: cover;
+}
+
+.section {
+    width: 100%;
+}
+
+.title {
+    margin-top: 12rem;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.title h3 {
+    font-size: 80px;
+    color: #7CA9BB;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title p {
+    font-size: 25px;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title button {
+    margin-top: 4rem;
+    width: 12rem;
+    height: 4rem;
+    background-color: #7CA9BB;
+    border: 0;
+    border-radius: 20%/50%;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img1 {
+    margin-top: 8rem;
+    max-width: 50rem;
+}
+.img1 img{
+    width: 90%;
+    margin: 0 5% 0 5%;
+}
+
+.img2 {
+    margin-top: 6rem;
+    padding-left: 3rem;
+}
+
+.img2 img {
+    width: 150%;
+    /* margin-left: -100%; */
+    max-width: 20rem;
+    
+}
+
+.img2 h3 {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-bottom: 6rem;
+}
+
+.img2 h3 span {
+    color: #7CA9BB;
+}
+
+.desc {
+    width : 80%;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: 2rem;
+    margin-top: 4rem;
+    text-shadow: #707070;
+}
+
+.desc h3 {
+    font-size: 50px;
+    color: #A6E6FF;
+    margin-top: 3rem;
+}
+
+.coming-soon {
+    width: 100%;
+}
+
+.coming-soon img {
+    width: 70%;
+    margin-bottom: 4rem;
+    margin-left: 4rem;
+    min-width: 15rem;
+}
+
+.bg-grad {
+background: rgb(94,104,156);
+background: -moz-linear-gradient(0deg, rgba(94,104,156,1) 0%, rgba(124,169,187,1) 100%);
+background: -webkit-linear-gradient(0deg, rgba(94,104,156,1) 0%, rgba(124,169,187,1) 100%);
+background: linear-gradient(0deg, rgba(94,104,156,1) 0%, rgba(124,169,187,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5e689c",endColorstr="#7ca9bb",GradientType=1);
+}
