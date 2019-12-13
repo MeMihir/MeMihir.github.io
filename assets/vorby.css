@@ -118,6 +118,7 @@
     .secondary-background{
         background-image: url(../public/Path\ 296.svg);
         background-position: right;
+        background-size: cover;
     }
 }
 
