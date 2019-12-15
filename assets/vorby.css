@@ -114,6 +114,28 @@
     min-width: 15rem;
 }
 
+footer {
+    background-color: #121212;
+    width: 100%;
+    height: 50px;
+    margin: 3rem 0;
+    color: rgb(184, 184, 184);
+
+}
+
+footer .social-media {
+    width: 15rem;
+    margin: auto;
+    font-size: 1rem;
+}
+
+footer .tos {
+    width: 15rem;
+    margin: 2rem auto;
+    text-align: center;
+
+}
+
 @media (max-width:768px){
     .secondary-background{
         background-image: url(../public/Path\ 296.svg);
